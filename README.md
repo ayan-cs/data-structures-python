@@ -1,7 +1,7 @@
 # Data Structures using Python
 ***This Repo is the Solutions of Assignment-1 of DSA Bridge Course, which is a mandatory course for all M.Tech. CSE, M.Tech. AI and M.Tech. DCS students and offered in Fall 2021, Indian Institute of Technology Jodhpur.***
 
-Here I have uploaded the implementations of basic data structures using C language. The Repo includes programs of
+Here I have uploaded the implementations of basic data structures using Python language. The Repo includes programs of
 - Singly Linked List
 - Doubly Linked List
 - Circular Linked List
